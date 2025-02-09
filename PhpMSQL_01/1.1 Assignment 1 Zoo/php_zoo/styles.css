@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+}
+
+.card-container {
+  width: 80%;
+  margin: auto;
+  background: #0000;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.card {
+  padding: 2rem;
+  box-shadow: 0 0 0.4rem 0.4rem rgba(0, 0, 0, 0.2);
+  transition: 0.4s ease-in;
+}
+
+.card:hover {
+  background: rgb(226, 226, 226);
+}
+
+.card-heading {
+  color: tomato;
+  margin-bottom: 0.5rem;
+}
+
+.card-body {
+  color: navy;
+}
+
+.card-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 0.5rem;
+}
+
+body {
+  background-image: url("https://i.pinimg.com/originals/46/29/f9/4629f95636f225c59d014fa87d9f0b64.jpg");
+  background-size: auto;
+}
+
+h3 {
+  color: #fafaf9;
+  text-align: center;
+  margin-top: 2rem;
+  font-style: oblique;
+  font-size: 2rem;
+}
+
+h1 {
+  color: #080808;
+  text-align: center;
+  margin-top: 2rem;
+  font-style: oblique;
+  font-size: 3rem;
+}
+
+h2 {
+  color: #080808;
+  text-align: center;
+  margin-top: 2rem;
+  font-style: oblique;
+  font-size: 2rem;
+}
