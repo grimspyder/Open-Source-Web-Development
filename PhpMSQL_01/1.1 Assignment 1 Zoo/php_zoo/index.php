@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sprint A3: Zoo Assignment</title>
+    <title>PHP Conversion: 1.1 Assignment 1 </title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>

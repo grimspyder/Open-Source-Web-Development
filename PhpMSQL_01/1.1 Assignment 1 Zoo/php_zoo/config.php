@@ -34,7 +34,7 @@ $cardData = [
       'heading' => 'Endangered Animals',
       'Image' => 'https://img.freepik.com/premium-photo/beautiful-asian-tiger-with-lush-green-habitat-background-generative-ai_272168-898.jpg?w=1380',
       'body' => 'Numerous animal species face decline owing to deforestation, climate change, and urban expansion.',
-      'url' => 'endangered.html'
+      'url' => 'endangered.php'
   ]
 ];
 
